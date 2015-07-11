@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C016407-7619-42D3-8397-9DB2200969F9}.Debug|ARM.ActiveCfg = Debug|ARM
+		{9C016407-7619-42D3-8397-9DB2200969F9}.Debug|ARM.Build.0 = Debug|ARM
+		{9C016407-7619-42D3-8397-9DB2200969F9}.Release|ARM.ActiveCfg = Release|ARM
+		{9C016407-7619-42D3-8397-9DB2200969F9}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
